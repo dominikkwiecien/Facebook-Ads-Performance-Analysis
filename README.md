@@ -53,10 +53,6 @@ This project demonstrates the power of SQL in transforming raw data into actiona
 
 Feel free to clone this repository, modify the query to suit your needs, and explore the data further. Contributions and feedback are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
-Special thanks to [Your Organization/Instructor] for providing the foundational knowledge and resources needed to complete this project.
+Special thanks to [GoIT school] for providing the foundational knowledge and resources needed to complete this project.
