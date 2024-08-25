@@ -55,4 +55,4 @@ Feel free to clone this repository, modify the query to suit your needs, and exp
 
 ## Acknowledgements
 
-Special thanks to [GoIT school] for providing the foundational knowledge and resources needed to complete this project.
+Special thanks to GoIT School for providing the foundational knowledge and resources needed to complete this project.
